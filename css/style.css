@@ -1,0 +1,151 @@
+html {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('../res/imagenes/Tablero.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: 100% 100%;
+    background-color: #0067ff;
+}
+
+html,
+body {
+    overscroll-behavior: contain;
+}
+
+canvas {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 3.5%;
+    left: 8.4%;
+    width: 82.5%;
+    height: 92.5%;
+    border: solid;
+}
+
+.logo {
+    position: absolute;
+    width: 50%;
+    left: 6rem;
+    top: 16rem;
+}
+
+
+/*html{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('../res/imagenes/Tablero.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: 100% 100%;
+    background-color: #0067ff;
+}
+
+html,body {
+  overscroll-behavior: contain;
+}
+
+canvas{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    border: solid;
+}
+
+@media all and (min-height: 560px){
+    canvas{
+        width: 295px;
+        height:528px;
+        position: absolute;
+        top: 10px;
+        left: 30px;
+        border: solid;
+    }
+}
+
+@media all and (min-height: 652px){
+    canvas{
+        width: 308px;
+        height: 614px;
+        position: absolute;
+        top: 22px;
+        left: 27px;
+        border: solid;
+    }
+}
+
+@media all and (min-height: 660px){
+    canvas{
+        width: 308px;
+        height: 614px;
+        position: absolute;
+        top: 22px;
+        left: 27px;
+        border: solid;
+    }
+}
+
+@media all and (min-height: 664px){
+    canvas{
+        width: 307px;
+        height: 617px;
+        position: absolute;
+        top: 22px;
+        left: 26px;
+        border: solid;
+    }
+}
+
+@media all and (min-height: 718px){
+    canvas{
+        width: 337px;
+        height: 680px;
+        position: absolute;
+        top: 17px;
+        left: 36px;
+        border: solid;
+    }
+}
+
+@media all and (min-height: 736px){
+    canvas{
+        width: 341px;
+        height: 684px;
+        position: absolute;
+        top: 25px;
+        left: 25px;
+        border: solid;
+    }
+}
+
+@media all and (min-height: 783px){
+    canvas{
+        width: 362px;
+        height: 728px;
+        position: absolute;
+        top: 26px;
+        left: 15px;
+        border: solid;
+    }
+}*/
